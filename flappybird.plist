@@ -17,7 +17,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>pw.rsigner.flappybird</string>
+        <string>pw.rsigner.FlappyBird</string>
         <key>bundle-version</key>
         <string>1</string>
         <key>kind</key>
