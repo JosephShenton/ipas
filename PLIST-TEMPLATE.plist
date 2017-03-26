@@ -11,19 +11,19 @@
         <key>kind</key>
         <string>software-package</string>
         <key>url</key>
-        <string>https://github.com/JosephShenton/ipas/blob/master/raindrop2_signed.ipa?raw=true</string>
+        <string>___________ IPA LINK ____________________________</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>pw.rsigner.raindrop2</string>
+        <string>_____________BUNDLE.ID.STUFF ________</string>
         <key>bundle-version</key>
         <string>1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>Raindrop2 BETA</string>
+        <string>______________NAME TO DISPLAY WHEN INSTALLING_____________</string>
       </dict>
     </dict>
   </array>
