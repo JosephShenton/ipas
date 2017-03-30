@@ -11,19 +11,19 @@
         <key>kind</key>
         <string>software-package</string>
         <key>url</key>
-        <string>https://github.com/JosephShenton/ipas/blob/master/PixlRecBypass.ipa?raw=true</string>
+        <string>https://github.com/JosephShenton/ipas/blob/master/extender.ipa?raw=true</string>
         </dict>
       </array>
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>pixl.rec.app</string>
+        <string>com.saurik.cydia</string>
         <key>bundle-version</key>
         <string>1</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>PixlRec BP</string>
+        <string>Extender</string>
       </dict>
     </dict>
   </array>
